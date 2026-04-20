@@ -27,7 +27,10 @@ body{
     flex-direction: row;
     justify-content: space-between;
     background-color: #fff;
-    padding: 1rem;
+    width:90%;
+    max-width: 500px;
+    padding:0.5rem;
+    
 }
 input{
     height:2rem;
